@@ -1,0 +1,8 @@
+{
+  "appId": "com.ochimax.voicegenerator",
+  "appName": "ochimax voice generator",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
